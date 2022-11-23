@@ -1,0 +1,114 @@
+---
+title: "TS1"
+author: "Natalie Vernon and Vicky Wheelhouse"
+format: 
+  revealjs:
+    footer: AMSP - TS1
+    logo: logo.png
+    embed-resources: true
+    self-contained: true
+    self-contained-math: true
+---
+
+## Teaching Statistics 1
+
+#### Session 1a: Introduction to Probability
+
+::: columns
+::: {.column width="50%"}
+To get you thinking:
+
+-   How would you explain randomness?
+
+-   How would you define probability?
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="40%"}
+![](images/paste-540113DD.png)
+:::
+:::
+
+*Please join with your microphone enabled but muted.*
+
+## What is your experience of teaching statistics content at A level?
+
+-   A. I have never taught it
+
+-   B. I have taught it for 1 or 2 years
+
+-   C. I have taught for more than 2 years in total but not on a regular basis
+
+-   D. I have taught it for more than 2 years on a regular basis
+
+-   E. Other (tell us in the chat!)
+
+## What strategy would you use?
+
+*A lateral flow test has a specificity (true negative) of 99.97% and a sensitivity (true positive) of 70%. A PCR test has a specificity (true negative) of 100% and a sensitivity (true positive) of 95%.*
+
+*Alix tests positive on a lateral flow test, but then she gets a negative PCR result. It is estimated that 4% of the population have covid. Does Alix have covid?*
+
+## Aims of the session
+
+::: incremental
+-   To introduce our course tutors and the TS1 course area on Integral
+
+-   To discuss and define randomness
+
+-   To introduce probability using natural frequencies
+:::
+
+## Your aims for your teaching
+
+::: columns
+::: {.column width="30%"}
+![](images/paste-0FF5A47B.png)
+:::
+
+::: {.column width="70%"}
+"More about life, less about exam questions"
+
+"More interactivity"
+
+"More questions to deepen understanding, rather that just learning the processes to carry out"
+
+"I would like to be confident in using technology in lessons and for technology to be a 'normal' part of A Level lessons."
+:::
+:::
+
+## Four dice are rolled 12 times - which is fair?
+
+![](https://cdn.mathpix.com/cropped/2022_11_23_a11074e7805f324a661dg-17.jpg?height=846&width=3138&top_left_y=640&top_left_x=54)
+
+::: columns
+::: {.column width="90%"}
+:::
+
+::: {.column width="10%"}
+![](images/paste-B43F9D0A.png)
+:::
+:::
+
+## Resources {.smaller .scrollable}
+
+-   Nrich (possible classroom activity): [What does randomness look like?](https://nrich.maths.org/7250)
+-   Desmos files: [Random dots](https://www.desmos.com/calculator/p6cvdr00fm), [Rolling a dice](https://www.desmos.com/calculator/4z5gyqsjda), Rolling a dice 6000 times, Relative frequency 100 trials, LFD/PCR frequency tree
+-   Spotify made its shuffle feature less random so that it would actually feel more random to listeners
+-   Numberphile: Randomness is random
+-   BBC More or Less podcasts:
+-   Law of large numbers
+-   [What can Education learn from real-world communication of risk & uncertainty?](https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1329&context=tme) Speigelhalter & Gage
+-   Nrich: Great expectations: Probability through problems (Speighalter & Gage)
+-   Article: Why are people testing positive on lateral flow tests then negative on pcr?
+-   RSS survey tests statistical skills of MPs
+-   Teaching Probability by Jenny Gage & David Speigelhalter (Cambridge Press)
+-   David Spiegelhalter's blog: https://understandinguncertainty.org/
+-   Winton Centre for Risk & Evidence Communication
+
+## More Resources {.smaller}
+
+-   

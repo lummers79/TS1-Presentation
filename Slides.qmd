@@ -24,11 +24,10 @@ To get you thinking:
 :::
 
 ::: {.column width="10%"}
-
 :::
 
 ::: {.column width="40%"}
-![](images/paste-540113DD.png)
+![](images/paste-3CFDF135.png){width="396"}
 :::
 :::
 
@@ -66,7 +65,7 @@ To get you thinking:
 
 ::: columns
 ::: {.column width="30%"}
-![](images/paste-0FF5A47B.png)
+![](images/paste-14A6034B.png)
 :::
 
 ::: {.column width="70%"}
@@ -89,7 +88,7 @@ To get you thinking:
 :::
 
 ::: {.column width="10%"}
-![](images/paste-B43F9D0A.png)
+![](images/paste-0A04E70B.png)
 :::
 :::
 
@@ -108,7 +107,3 @@ To get you thinking:
 -   Teaching Probability by Jenny Gage & David Speigelhalter (Cambridge Press)
 -   David Spiegelhalter's blog: https://understandinguncertainty.org/
 -   Winton Centre for Risk & Evidence Communication
-
-## More Resources {.smaller}
-
--   
